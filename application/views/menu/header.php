@@ -14,6 +14,6 @@
 	<li><a href="<?php echo site_url('Book/update_books');?>">Update book</a></li>
 	<li><a href="<?php echo site_url('Book/borrow_books');?>">Borrow book</a></li>
 	<li><a href="<?php echo site_url('Book/return_books');?>">Return book</a></li>
-	<li><a href="<?=base_url('./Document')?>" target="_blank">Document</a></li>
+	<li><a href="<?=base_url('./Document.docx')?>" target="_blank">Document</a></li>
 </ul>
 
