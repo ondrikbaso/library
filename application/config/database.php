@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysqli.oamk.fi',
+	'hostname' => 'mysli.oamk.fi',
 	'username' => 't7baon00',
 	'password' => 'pH9LU6zUwjHeg9Xa',
 	'database' => 'opisk_t7baon00',
