@@ -8,11 +8,11 @@
 
 <h1>Library Managment</h1>
 <ul>
-	<li><a href="<?php echo site_url('book/show_books');?>">Show books</a></li>
-	<li><a href="<?php echo site_url('book/add_books');?>">Add book</a></li>
-	<li><a href="<?php echo site_url('book/delete_books');?>">Delete book</a></li>
-	<li><a href="<?php echo site_url('book/update_books');?>">Update book</a></li>
-	<li><a href="<?php echo site_url('book/borrow_books');?>">Borrow book</a></li>
-	<li><a href="<?php echo site_url('book/return_books');?>">Return book</a></li>
+	<li><a href="<?php echo site_url('Book/show_books');?>">Show books</a></li>
+	<li><a href="<?php echo site_url('Book/add_books');?>">Add book</a></li>
+	<li><a href="<?php echo site_url('Book/delete_books');?>">Delete book</a></li>
+	<li><a href="<?php echo site_url('Book/update_books');?>">Update book</a></li>
+	<li><a href="<?php echo site_url('Book/borrow_books');?>">Borrow book</a></li>
+	<li><a href="<?php echo site_url('Book/return_books');?>">Return book</a></li>
 </ul>
 
